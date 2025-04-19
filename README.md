@@ -1,0 +1,1 @@
+# Trend-Crypto-Trading
