@@ -3,7 +3,6 @@
 Trend Crypto Trading is an automated cryptocurrency trading bot designed to identify and capitalize on trending coins and trading opportunities in the crypto market. This project leverages technical indicators, trend analysis, and customizable strategies to help users automate their trading while maintaining flexibility and risk management.
 
 ---
-
 ## 🚀 Features
 
 - **Trend Detection:** Automatically identifies trending cryptocurrencies using configurable technical indicators (such as Moving Averages, RSI, MACD, etc.).
